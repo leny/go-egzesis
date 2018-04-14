@@ -9,3 +9,7 @@ I'm learning [**go**](https://golang.org) this year. This repo contains my learn
 * * *
 
 > **NOTE:** I'm _learning_ go right now. Maybe you are an experienced go programmer, landing here by accident, reading code and thinking to yourself "_this is shitty code_". Yeah, I know - learning, right? But if you see something _really_ shitty, leave a comment on the code. :)
+
+* * *
+
+> **NOTE 2:** Sometimes I skip exercise. I keep the numerotation from the book.
