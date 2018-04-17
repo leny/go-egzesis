@@ -27,7 +27,7 @@ func main() {
 
 	currentYear := time.Now().Year()
 	yearsToWork := pension - age
-	retireYear := currentYear + int( yearsToWork )
+	retireYear := currentYear + int(yearsToWork)
 
 	if yearsToWork <= 0 {
 		fmt.Print("You already can retire!\n")
